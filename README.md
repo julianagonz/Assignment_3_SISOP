@@ -79,6 +79,8 @@ Archivo utilizado para demostraciones adicionales y pruebas de ejecución relaci
 `README.md`
 Archivo de documentación de la actividad.
 
+`Dockerfile`
+Archivo de configuración empleado para la construcción de la imagen Docker del proyecto, compilar el programa en C++ y ejecutar la aplicación dentro de un contenedor usando la imagen japeto/pujgcc.
 ---
 
 # 1.4 Programas Implementados
